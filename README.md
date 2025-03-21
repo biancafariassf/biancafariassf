@@ -1,4 +1,4 @@
-# Olá, eu me chamo Neguinh@ da P3 neh vidah rsrs 👋
+# Olá, eu me chamo Bianca Farias 👋
 
 ### 🚀 Bem-vindo ao meu perfil no GitHub!
 
