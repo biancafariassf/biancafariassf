@@ -16,7 +16,7 @@ Estou sempre em busca de novos desafios e soluções criativas, e adoro aprender
   <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40" />
   <img src="https://www.ovhcloud.com/sites/default/files/styles/large_screens_1x/public/2021-09/ECX-1909_Hero_MySQL_600x400%402x-1_0.png" height="40" />
-  <img src="https://emendes.com/wp-content/uploads/2019/11/Cloud-Firestore-3-Vertical-Lockup-Light.png" height="40" />
+  <img src="https://emendes.com/wp-content/uploads/2019/11/Cloud-Firestore-3-Vertical-Lockup-Light.png" height="60" />
    <img src="https://www.bairesdev.com/wp-content/uploads/2022/03/selenium-2.svg" height="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/cypress-1.svg" height="40" />
    <img src="https://comunidadecloud.com/wp-content/uploads/2023/08/image1.png" height="40" />
