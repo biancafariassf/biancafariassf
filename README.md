@@ -1,4 +1,4 @@
-# Olá, eu me chamo Neguinha 👋
+# Olá, eu me chamo Neguinh@ da P3 neh vidah rsrs 👋
 
 ### 🚀 Bem-vindo ao meu perfil no GitHub!
 
