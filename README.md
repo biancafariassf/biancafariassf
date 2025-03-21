@@ -1,4 +1,4 @@
-# Olá, eu me chamo Bianca Farias Neguinha 👋
+# Olá, eu me chamo Neguinha 👋
 
 ### 🚀 Bem-vindo ao meu perfil no GitHub!
 
